@@ -1,0 +1,31 @@
+.btnContainer{
+  display: flex;
+  justify-content:center;
+  flex-wrap: wrap;
+}
+
+.btn{
+  margin:3px;
+  width: 90px;
+  height: 70px;
+  font-size: 45px;
+  border-radius: 40%;
+  background-color: rgb(128, 128, 128);
+  border: none;
+  color: rgb(0, 255, 200);
+}
+
+.clear{
+  color: aliceblue;
+  background-color: rgb(232, 31, 13);
+}
+
+.equal{
+  color: aliceblue;
+  background-color: rgb(123, 232, 13);
+}
+
+.operator{
+  color: black;
+  background-color: yellow;
+}
