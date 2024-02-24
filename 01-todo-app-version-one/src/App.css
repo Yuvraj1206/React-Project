@@ -1,0 +1,21 @@
+.yuvi-row{
+  margin: 10px;
+}
+.todoContainer{
+  margin-top: 50px;
+  width: 600px;
+  background-color: #ADBC9F;
+  border-radius: 8px;
+  height: 100%
+}
+.todoList{
+  background-color: rgb(5, 5, 5);
+}
+.yuvi-btn{
+  min-width: 50px;
+  width:100%
+}
+/* .AppHead{
+  margin-bottom: 20px;
+  font-weight: 700;
+} */
