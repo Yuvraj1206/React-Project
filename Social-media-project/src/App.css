@@ -1,0 +1,57 @@
+#root{
+  background-image: url("https://images.pexels.com/photos/4549414/pexels-photo-4549414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-attachment: fixed;
+  background-size: 100% 110%;
+}
+
+.mainContainer{
+  display: flex;
+  
+}
+
+.content{
+  width: 100%;
+  height: 100%;
+  
+}
+
+.sidebar{
+    position:fixed;
+    height: 100%;
+}
+
+.footer{  
+  background-color: rgb(95, 177, 218);
+  opacity: 0.8;
+}
+
+.postCard{
+  margin: 20px 30px;
+  max-width: 700px;
+  opacity: 0.87;
+}
+
+/* .card-yuvi{
+  opacity: 0.5;
+} */
+
+.hashTag{
+  margin: 0px 3px;
+}
+
+.reaction{
+  margin: 10px 0px 0px 0px
+}
+
+.createPost{
+  margin: 40px 0px 5% 30%;
+  width: 50%;
+  min-width: 400px;
+  background-color: rgb(118, 113, 113);
+  opacity: 0.87;
+  padding: 15px;
+  border-radius: 3px;
+  color: aliceblue;
+}
